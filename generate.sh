@@ -5,4 +5,3 @@ git submodule update
 
 cd script
 ./kicadlibgen.py $@
-cd -
